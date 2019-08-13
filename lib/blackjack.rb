@@ -8,6 +8,7 @@ end
 
 def display_card_total(hand)
   i = 0 
+  puts "Your total"
   
 end
 
