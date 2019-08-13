@@ -33,7 +33,7 @@ def initial_round
 end
 
 def hit?
-  # code hit? here
+  puts "Hit or Stay?"
 end
 
 def invalid_command
