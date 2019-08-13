@@ -6,7 +6,7 @@ def deal_card
   rand 1..11
 end
 
-def display_card_total(7)
+def display_card_total(num)
   i = 0 
   puts "Your total"
   hands.each do |card|
